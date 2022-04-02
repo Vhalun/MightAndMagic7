@@ -10,3 +10,5 @@ Installation:<br/>
 2.) Rename the audio.dll to audio.bak<br/>
 3.) Copy the new audio.dll inside the folder<br/> 
 4.) Have fun with the game!<br/>
+
+It was tested on Windows 10 Version: 21H1 OS build: 19043.1586
